@@ -14,6 +14,7 @@
 .svn/
 build/
 **/*.build/*
+0/
 
 # Packages #
 ############
